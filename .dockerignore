@@ -1,0 +1,20 @@
+# Git 
+.git/
+.gitignore
+.git*
+
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+
+# General
+.venv/
+.env
+__pycache__/
+README.md
+
+
+# Project Specifics
